@@ -19,7 +19,7 @@ int main()
 
     cout << "Iveskite inervalo rerzius:" << endl;
     cin >> apatinis_rezis >> virsutinis_rezis;
-    cout << "Iveskite vektoriaus ilgi:" << endl;
+    cout << "Iveskite vektoriaus ilgy:" << endl;
     cin >> n;
 
     double vektorius[n];
