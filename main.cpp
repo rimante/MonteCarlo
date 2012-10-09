@@ -27,7 +27,7 @@ int main()
     for(int i=0; i<n; i++)
     {
         vektorius[i] = rand() * (virsutinis_rezis - apatinis_rezis) / RAND_MAX + apatinis_rezis;
-        cout << i+1  << ". " << vektorius[i] << endl;
+        cout << i+1  << ". " << vektorius[i] << endl; // Vektoriaus isvedimas i ekrana
     }
 
     return 0;
